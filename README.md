@@ -19,4 +19,4 @@
 </div><br/>
 
 ----
-Meu nome é Ryan, moro atualmente em <strong>Campina Grande - PB</strong>. Tenho 20 anos e sou apaixonado por aprender cada dia mais algo novo! Tenho experiência em atendimento e abordagem ao cliente, sou uma pessoa muito comunicativa e busco sempre a resolução dos problemas.
+Meu nome é Ryan, moro atualmente em <strong>Campina Grande - PB</strong>. Tenho 21 anos e sou apaixonado por aprender cada dia mais algo novo! Estudante de Análise e Desenvolvimento de sistemas.
